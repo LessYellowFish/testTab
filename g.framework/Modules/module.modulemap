@@ -1,0 +1,6 @@
+framework module g {
+  umbrella header "g.h"
+
+  export *
+  module * { export * }
+}
